@@ -51,7 +51,7 @@ layout: "list"
 <div class="member-card">
   
   <div class="member-photo">
-    <img src="/members/images/InjaeHong.jpg" alt="Injae Hong">
+    <img src="/members/images/InjaeHong.jpg" alt="Injae">
   </div>
 
   <div class="member-info">
