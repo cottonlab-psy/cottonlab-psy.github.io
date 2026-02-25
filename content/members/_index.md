@@ -70,11 +70,11 @@ layout: "list"
     <p>
       Injae is an Assistant Professor in the Department of Psychology at Chungbuk National University. Her academic foundation was built at Yonsei University, where she earned her B.A. in Psychology and Philosophy, followed by an M.A. and Ph.D. under the mentorship of Dr. Min-Shik Kim. Prior to joining the faculty in 2026, she completed a postdoctoral fellowship with Dr. Jeremy M. Wolfe at Brigham and Women's Hospital / Harvard Medical School. Outside of research, Injae is a dedicated knitter who loves to craft clothes and dolls. While she is deeply committed to her current field, she's already manifesting her post-retirement plan: opening a little yarn store in town.
     </p>
+  </div>
 
   <div class="recruitment-note">
       <strong>Looking for motivated students!</strong><br>
       We are considering recruiting new graduate students. If you are interested in joining the COTTON Lab, please contact us at <a href="mailto:injae.hong@chungbuk.ac.kr" style="color: #0056b3; text-decoration: underline;">injae.hong@chungbuk.ac.kr</a>.
     </div>
-  </div>
 
 </div>
