@@ -33,7 +33,6 @@ layout: "list"
     text-align: left;
   }
 
-  /* 이메일 연락처 스타일 */
   .member-contact {
     margin-top: 15px;
     font-size: 1rem;
@@ -46,7 +45,6 @@ layout: "list"
     margin-right: 8px;
   }
 
-  /* 모집 공고 박스 */
   .recruitment-note {
     margin-top: 25px;
     padding: 15px;
@@ -58,7 +56,6 @@ layout: "list"
     text-align: left;
   }
 
-  /* 데스크탑 설정 (화면 너비 768px 이상) */
   @media (min-width: 768px) {
     .member-card {
       flex-direction: row;
@@ -82,6 +79,7 @@ layout: "list"
     <p>
       Injae is an Assistant Professor in the Department of Psychology at Chungbuk National University. Her academic foundation was built at Yonsei University, where she earned her B.A. in Psychology and Philosophy, followed by an M.A. and Ph.D. under the mentorship of Dr. Min-Shik Kim. Prior to joining the faculty in 2026, she completed a postdoctoral fellowship with Dr. Jeremy M. Wolfe at Brigham and Women's Hospital / Harvard Medical School, and (unofficially) worked with Dr. Hakwan Lau at Institute of Basic Science. Outside of research, Injae is a dedicated knitter who loves to craft clothes and dolls. While she is deeply committed to her current field, she's already manifesting her post-retirement plan: opening a little yarn store in town.
     </p>
+</div>
 
     <div class="member-contact">
       <strong>Email:</strong> 
