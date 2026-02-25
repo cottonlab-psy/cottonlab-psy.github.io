@@ -59,23 +59,13 @@ layout: "list"
   <div class="research-content">
     The attentional system develops various strategies to process information efficiently, but these strategies are not always successful. When searching for target(s) in a display, attention is necessary to find what we are looking for, and sometimes it enables learning of statistical regularities to facilitate the search process. However, we often miss items even when they are attended to (i.e., <em>look-but-fail-to-see</em>), revealing the inherent limitations of human attention. Our lab explores the role of attention in balancing efficiency and inefficiency. We seek to find ways to maximize efficiency while minimizing the costs of inefficiency.
   </div>
-  <div class="research-keywords">
-    <span class="keyword-tag">#VisualSearch</span>
-    <span class="keyword-tag">#StatisticalLearning</span>
-    <span class="keyword-tag">#AttentionalErrors</span>
-  </div>
 </div>
 
 <div class="research-section">
   <h2>2. Search Facilitation & Termination Strategy</h2>
   <div class="research-content">
-    We investigate the mechanisms that allow human observers to find targets faster and decide when to give up.
-    <ul style="margin-top: 15px;">
-      <li><strong>Statistical Learning:</strong> How past experiences shape our current attention.</li>
-      <li><strong>Visual Foraging:</strong> Searching for multiple targets in complex environments.</li>
-    </ul>
+To maximize efficiency in visual search, it is crucial not only to "find the target accurately" but also to "terminate the search at the optimal moment." These processes must be done strategically. Such strategies are often informed by past experiences; for instance, knowing where targets or distractors have frequently appeared in the past allows us to prepare for future searches. Furthermore, efficiency can be achieved through future-oriented predictions. By inferring what to expect within a given search environment, observers can determine the most efficient point to stop their search. Our lab investigates these attentional strategies to understand how the human mind optimizes search performance.
   </div>
-  <div class="coming-soon">Full description coming soon...</div>
 </div>
 
 <div class="research-section">
