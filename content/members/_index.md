@@ -33,6 +33,11 @@ layout: "list"
     text-align: left; /* 본문은 읽기 편하게 왼쪽 정렬 */
   }
 
+  .member-contact strong {
+    color: #222;
+    margin-right: 8px;
+  }
+  
   .recruitment-note {
     margin-top: 20px;
     padding: 15px;
@@ -72,6 +77,13 @@ layout: "list"
     </p>
   </div>
 
+<div class="member-contact">
+      <strong>Email:</strong> 
+      <a href="mailto:injae.hong@chungbuk.ac.kr" style="color: #0056b3; text-decoration: none; border-bottom: 1px solid #0056b3;">
+        injae.hong@chungbuk.ac.kr
+      </a>
+  </div>
+    
   <div class="recruitment-note">
       <strong>Looking for motivated students!</strong><br>
       We are considering recruiting new graduate students. If you are interested in joining the COTTON Lab, please contact us at <a href="mailto:injae.hong@chungbuk.ac.kr" style="color: #0056b3; text-decoration: underline;">injae.hong@chungbuk.ac.kr</a>.
