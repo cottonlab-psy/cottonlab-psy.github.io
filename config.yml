@@ -65,18 +65,7 @@ params:
               url: publications/
             - name: JOIN US
               url: joinus/
-
-
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:injae.hong@cbnu.ac.kr
-        - name: Location
-          url: location/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-
+              
     assets:
         disableScrollBarStyle: true
     cover:
