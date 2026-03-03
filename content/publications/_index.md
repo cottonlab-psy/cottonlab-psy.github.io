@@ -61,29 +61,45 @@ layout: "list"
   <div class="pub-item">
     <span class="my-name">Hong, I.</span>, & Wolfe, J. M. (2025). 
     Mixed hybrid visual foraging is near optimal. 
-    <span class="journal-title">Attention, Perception, & Psychophysics</span>, 1-24. 
+    <span class="journal-title">Attention, Perception, & Psychophysics</span>, 1-24. https://doi.org/10.3758/s13414-025-03127-1
     <br>
-    <a href="https://doi.org/10.3758/s13414-025-03127-1" class="pub-link" target="_blank">
-      https://doi.org/10.3758/s13414-025-03127-1
-    </a>
   </div>
+
 
   <div class="pub-item">
     Wolfe, J. M., <span class="my-name">Hong, I.</span>, Mitra, A. A., Obijo, E., Khalifa, H., & Ali, Yousra (2025). 
     Mixing it up: Intermixed and blocked visual search tasks produce similar results. 
-    <span class="journal-title">Attention, Perception, & Psychophysics</span>, 87, 1864-1887. 
-    <a href="https://doi.org/10.3758/s13414-025-03077-8" class="pub-link" target="_blank">
-      https://doi.org/10.3758/s13414-025-03077-8
-    </a>
+    <span class="journal-title">Attention, Perception, & Psychophysics, 87</span>, 1864-1887. https://doi.org/10.3758/s13414-025-03077-8
+    <br>
+  </div>
+  
+  <div class="pub-item">
+    <span class="my-name">Hong, I.</span>, Yan, G. & Wolfe, J. M. (2024). No matter what you do, travel is travel during visual foraging. 
+    <span class="journal-title">Vision Research, 224</span>, 108491. https://doi.org/10.1061/j.visres.2024.108491
+    <br>
+  </div>
+
+<div class="pub-item">
+    <span class="my-name">Hong, I.</span>, Wolfe, J. M. (2024). Research on re-searching: interrupted foraging is not disrupted foraging. 
+    <span class="journal-title">Cognitive Research: Principles and Implications, 9</span>, 30. https://doi.org/10.1186/s41235-024-00556-8
+    <br>
+  </div>
+
+<div class="pub-item">
+    <span class="my-name">Hong, I.</span>, Kim, M.-S. (2024). Attenuation of spatial bias in target template variation. 
+    <span class="journal-title">Scientific Reports, 14</span>, 7869.  https://doi.org/10.1038/s4158-024-57255-z
+    <br>
+  </div>
+
+<div class="pub-item">
+    <span class="my-name">Hong, I.</span>, Kim, M.-S. (2022). Habit-like attentional bias is unlike goal-driven attenitonal bias against spatial updating.  
+    <span class="journal-title">Cognitive Research: Principles and Implications, 7</span>, 50. https://doi.org/10.1186/s41235-022-00404-7
+    <br>
   </div>
 
   <div class="pub-item">
-    Wolfe, J. M., <span class="my-name">Hong, I.</span>, Mitra, A. A., Obijo, E., Khalifa, H., & Ali, Yousra (2025). 
-    Mixing it up: Intermixed and blocked visual search tasks produce similar results. 
-    <span class="journal-title">Attention, Perception, & Psychophysics</span>, 87, 1864-1887. 
-    <a href="https://doi.org/10.3758/s13414-025-03077-8" class="pub-link" target="_blank">
-      https://doi.org/10.3758/s13414-025-03077-8
-    </a>
+    <span class="my-name">Hong, I.</span>, Jeong, S. K., Kim, M.-S. (2022). Flexibility and stability of habit learning depend on temporal signal variation. <span class="journal-title">Journal of Experimental Psychology: Learning, Memory, and Cognition, 48</span>(1), 1-12. https://doi.org/10.1037/xlm0001113
+    <br>
   </div>
-
+  
 </div>
