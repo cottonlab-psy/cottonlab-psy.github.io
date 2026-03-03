@@ -68,7 +68,17 @@ layout: "single"
   color: #0056b3;
   text-align: left;
   }
-  
+
+  /* 상단 브레드크럼(Home > MEMBERS) 숨기기 */
+  .breadcrumbs {
+      display: none !important;
+  }
+
+  /* 테마가 자동으로 생성하는 페이지 제목 영역 숨기기 */
+  .post-header {
+      display: none !important;
+  }
+    
   /* desktop: when min-width is 768 px; horizontal */
   @media (min-width: 768px) {
     .member-card {
