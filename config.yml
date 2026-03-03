@@ -22,7 +22,7 @@ menu:
           url: publications/
           weight: 3
         - name: JOIN US
-          url: joinus/
+          url: joins/
           weight: 4 
 
 params:
@@ -38,7 +38,7 @@ params:
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     MainSections: ["RESEARCH", "MEMBERS", "PUBLICATIONS", "JOIN US"]
