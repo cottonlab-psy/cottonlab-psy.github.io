@@ -22,7 +22,7 @@ menu:
           url: publications/
           weight: 3
         - name: JOIN US
-          url: joins/
+          url: joinus/
           weight: 4 
 
 params:
