@@ -1,6 +1,6 @@
 ---
 title: "MEMBERS"
-layout: "list"
+layout: "single"
 ---
 
 <style>
