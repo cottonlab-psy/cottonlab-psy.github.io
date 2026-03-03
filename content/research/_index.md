@@ -71,7 +71,6 @@ To maximize efficiency in visual search, it is crucial not only to "find the tar
 <div class="research-section">
   <h2>3. Real-world Implications</h2>
   <div class="research-content">
-    Beyond the lab, we aim to apply our findings to enhance human performance in critical real-world tasks.
+    Our lab’s philosophy is rooted in <strong>‘use-inspired basic research’</strong>. We are committed to understanding the fundamental mechanisms of human mind while addressing real-world challenges. Real-world challenges range from everyday tasks (e.g., where is my phone?) to expert settings (e.g., medical imaging perception). Our research questions begin with the observation of human behavior, which we investigate using rigorous scientific methods to describe, explain, and predict. We seek to bridge the gap between psychological theory and tangible practical implications.
   </div>
-  <div class="coming-soon">Full description coming soon...</div>
 </div>
