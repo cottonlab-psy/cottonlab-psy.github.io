@@ -72,7 +72,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "LABEL"
+      text: "COTTONLAB"
       icon: favicon.ico
       iconHeight: 18
 
