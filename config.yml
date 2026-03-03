@@ -38,7 +38,7 @@ params:
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
-    ShowBreadCrumbs: true
+    ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     MainSections: ["RESEARCH", "MEMBERS", "PUBLICATIONS", "JOIN US"]
