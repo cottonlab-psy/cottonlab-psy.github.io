@@ -4,6 +4,16 @@ layout: "single"
 ---
 
 <style>
+  /* 상단 브레드크럼(Home > MEMBERS) 숨기기 */
+  .breadcrumbs {
+      display: none !important;
+  }
+
+  /* 테마가 자동으로 생성하는 페이지 제목 영역 숨기기 */
+  .post-header {
+      display: none !important;
+  }
+  
   /* 모집 공고 박스 */
   .join-recruitment {
     background-color: #f8f9fa;
