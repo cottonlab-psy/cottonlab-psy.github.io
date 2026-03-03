@@ -47,9 +47,11 @@ layout: "list"
   color: #555;
   transition: color 0.2s;
   }
+  
   .icon-link:hover {
   color: #007bff;
   }
+  
   .icon-svg {
   width: 20px;
   height: 20px;
