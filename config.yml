@@ -52,8 +52,8 @@ params:
     profileMode:
           enabled: true
           title: Welcome to COTTON lab
-          subtitle: "This website is under construction"
-          imageUrl: "picture.jpeg"
+          subtitle: "Sorry, This website is under construction"
+          imageUrl: "lab_banner.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
