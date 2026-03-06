@@ -49,22 +49,17 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    
     profileMode:
           enabled: true
-          title: Welcome to COTTON lab
-          subtitle: "COgnition and aTTentiON lab @CBNU"
+          title: COTTON LAB @CBNU
+          subtitle: >
+            <img src="lab_logo.png" width = "300px" style = "margin-top: 20px;"><br>
+            COgnition and aTTentiON lab @CBNU
           imageUrl: "lab_banner.png"
           imageWidth: 400
           imageHeight: 160
-          buttons:
-            - name: RESEARCH
-              url: research/
-            - name: MEMBERS
-              url: members/
-            - name: PUBLICATIONS
-              url: publications/
-            - name: JOIN US
-              url: joinus/
+          buttons: []
               
     assets:
         disableScrollBarStyle: true
@@ -72,9 +67,9 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "COTTON LAB"
-      icon: favicon.ico
-      iconHeight: 18
+      text: ""
+      icon: lab_banner.png
+      iconHeight: 35
 
 markup:
     goldmark:
