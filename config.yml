@@ -76,7 +76,7 @@ params:
         hiddenInSingle: true
     label:
       text: ""
-      icon: lab_banner.png
+      icon: lab_logo.png
       iconHeight: 35
 
 markup:
