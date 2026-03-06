@@ -1,3 +1,40 @@
+.header {
+    display: flex !important;
+    visibility: visible !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 15px 20px;
+}
+
+/* 2. Force the navigation menu to show up on the right */
+#menu {
+    display: flex !important;
+    visibility: visible !important;
+}
+
+.menu {
+    display: flex !important;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 20px; /* Space between buttons */
+}
+
+/* 3. Style the links so they look like the buttons on other pages */
+.menu a {
+    color: var(--primary) !important;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+
+
+
 .main {
     position: relative;
     min-height: calc(100vh - var(--header-height) - var(--footer-height));
