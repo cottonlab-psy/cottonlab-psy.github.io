@@ -1,0 +1,26 @@
+/* 1. Force the menu to be visible even if the screen feels "small" */
+.menu {
+    display: flex !important;
+    visibility: visible !important;
+}
+
+/* 2. Ensure the menu items are on the right */
+#menu {
+    display: flex !important;
+    justify-content: flex-end;
+}
+
+/* 3. Make sure the button text color is visible (Dark Grey/Black) */
+.menu a {
+    color: #333 !important;
+    margin-left: 15px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/* 4. Fix for the logo taking up too much space */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
