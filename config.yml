@@ -13,16 +13,16 @@ taxonomies:
 menu:
     main:
         - name: RESEARCH
-          url: research/
+          url: /research/
           weight: 1 
         - name: MEMBERS
-          url: members/
+          url: /members/
           weight: 2 
         - name: PUBLICATIONS
-          url: publications/
+          url: /publications/
           weight: 3
         - name: JOIN US
-          url: joinus/
+          url: /joinus/
           weight: 4 
 
 params:
