@@ -1,26 +1,42 @@
-/* 1. Force the menu to be visible even if the screen feels "small" */
-.menu {
+/* 1. Force the header navigation to be visible on the Home Page */
+.header {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 10px 20px;
+}
+
+/* 2. Un-hide the menu items if they are being collapsed into a mobile menu */
+#menu {
     display: flex !important;
     visibility: visible !important;
 }
 
-/* 2. Ensure the menu items are on the right */
-#menu {
+.menu {
     display: flex !important;
-    justify-content: flex-end;
+    gap: 20px;
 }
 
-/* 3. Make sure the button text color is visible (Dark Grey/Black) */
+/* 3. Style the links so they look like clean navigation buttons */
 .menu a {
-    color: #333 !important;
-    margin-left: 15px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--primary) !important; /* Matches your theme's primary color */
     text-decoration: none;
+    transition: opacity 0.2s;
 }
 
-/* 4. Fix for the logo taking up too much space */
-.header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.menu a:hover {
+    opacity: 0.7;
+    text-decoration: underline;
+}
+
+/* 4. Ensure the Logo and Menu don't overlap */
+@media screen and (max-width: 768px) {
+    .header {
+        flex-direction: column;
+    }
+    .menu {
+        margin-top: 10px;
+    }
 }
