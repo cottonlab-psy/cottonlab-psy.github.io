@@ -26,7 +26,7 @@ menu:
           weight: 4 
 
 params:
-    description: "COgnition and aTTentiON lab"
+    description: "COgnition and aTTentiON lab @CBNU"
     author: COTTONLAB
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Welcome to COTTON lab
-          subtitle: "Sorry, This website is under construction"
+          subtitle: "COgnition and aTTentiON lab @CBNU"
           imageUrl: "lab_banner.png"
           imageWidth: 400
           imageHeight: 160
