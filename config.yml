@@ -59,7 +59,15 @@ params:
           imageUrl: "lab_banner.png"
           imageWidth: 400
           imageHeight: 160
-          buttons: []
+          buttons:
+            - name: RESEARCH
+              url: research/
+            - name: MEMBERS
+              url: members/
+            - name: PUBLICATIONS
+              url: publications/
+            - name: JOIN US
+              url: joinus/
               
     assets:
         disableScrollBarStyle: true
