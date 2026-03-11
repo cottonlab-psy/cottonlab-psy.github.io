@@ -1,7 +1,7 @@
 .buttons,
 .main .profile {
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 .main .profile {
     align-items: center;
@@ -9,12 +9,13 @@
     font-size: var(--homesize);
     line-height: var(--lineheight);
     padding: var(--gap);
+    text-align: center;
 }
 
 .profile .profile_inner {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 10px;
 }
 
@@ -25,6 +26,7 @@
 .profile img {
     border-radius: 10%;
     border: 1px solid var(--tertiary);
+    margin: 0 auto;
 }
 
 .buttons {
