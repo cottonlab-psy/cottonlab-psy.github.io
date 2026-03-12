@@ -40,12 +40,29 @@
     height: auto;
 }
 
-/* 데스크탑 설정 (화면 너비가 768px 이상일 때 작동): 좌(로고) 우(텍스트) 수평 배치 */
+/* 1. 모바일 기본 설정: 수직 배치 (위 로고, 아래 텍스트) */
+.profile_inner span {
+    display: flex;
+    flex-direction: column; /* 요소를 위아래로 쌓음 */
+    align-items: center;
+    gap: 15px; /* 로고와 텍스트 사이의 간격 */
+}
+
+/* 2. 로고 이미지 세부 설정 (배너 이미지와 겹치지 않음) */
+.profile_inner span img {
+    max-width: 150px !important; /* 로고가 너무 커지지 않도록 방어 */
+    border-radius: 0 !important; /* 테마 기본 둥근 모서리 제거 */
+    border: none !important;
+    margin: 0 !important;
+}
+
+/* 3. 데스크탑 설정: 수평 배치 (좌측 로고, 우측 텍스트) */
 @media (min-width: 768px) {
-    .lab-intro-layout {
-        flex-direction: row; /* 가로로 나란히 배치 */
+    .profile_inner span {
+        flex-direction: row; /* 요소를 좌우로 나란히 배치 */
+        text-align: left;    /* 텍스트를 왼쪽으로 정렬 */
+        align-items: center;
         justify-content: center;
-        text-align: left;    /* 텍스트를 왼쪽 정렬 */
-        gap: 40px;
+        gap: 30px; /* 데스크탑에서 로고와 텍스트 사이 간격 */
     }
 }
