@@ -1,4 +1,8 @@
-/* 메인 페이지에서 숨겨진 네비게이션 메뉴 강제 노출 */
-.profile #menu, .list #menu {
+/* 메인 페이지(Profile Mode)에서 숨겨진 메뉴 강제 노출 */
+.profile-mode .nav {
+    display: flex !important;
+}
+
+#menu {
     display: flex !important;
 }
