@@ -1,42 +1,4 @@
-/* 1. Force the header navigation to be visible on the Home Page */
-.header {
+/* 메인 페이지에서 숨겨진 네비게이션 메뉴 강제 노출 */
+.profile #menu, .list #menu {
     display: flex !important;
-    justify-content: space-between !important;
-    align-items: center !important;
-    padding: 10px 20px;
-}
-
-/* 2. Un-hide the menu items if they are being collapsed into a mobile menu */
-#menu {
-    display: flex !important;
-    visibility: visible !important;
-}
-
-.menu {
-    display: flex !important;
-    gap: 20px;
-}
-
-/* 3. Style the links so they look like clean navigation buttons */
-.menu a {
-    font-size: 16px;
-    font-weight: 500;
-    color: var(--primary) !important; /* Matches your theme's primary color */
-    text-decoration: none;
-    transition: opacity 0.2s;
-}
-
-.menu a:hover {
-    opacity: 0.7;
-    text-decoration: underline;
-}
-
-/* 4. Ensure the Logo and Menu don't overlap */
-@media screen and (max-width: 768px) {
-    .header {
-        flex-direction: column;
-    }
-    .menu {
-        margin-top: 10px;
-    }
 }
