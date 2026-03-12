@@ -18,7 +18,7 @@
 {{- end -}}
 " id="top">
    <!-- {{- if not .IsHome  }} -->
-    {{- partialCached "header.html" . .Page -}}
+    {{- partial "header.html" . .Page -}}
    <!-- {{- end }} -->
     <main class="main">
         {{- block "main" . }}{{ end }}
