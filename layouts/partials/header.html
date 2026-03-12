@@ -1,3 +1,13 @@
+<style>
+    /* 메인 화면에서 헤더와 메뉴를 강제로 노출시키는 절대 규칙 */
+    .header, .nav, #menu {
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+    }
+</style>
+<div style="background-color: red; color: white; text-align: center; padding: 5px; z-index: 9999; width: 100%;">HEADER IS WORKING</div>
+
 {{- /* theme-toggle is enabled */}}
 {{- if (not site.Params.disableThemeToggle) }}
 {{- /* theme is light */}}
