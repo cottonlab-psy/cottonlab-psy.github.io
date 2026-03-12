@@ -25,6 +25,11 @@
     --theme: #ffffff !important; 
 }
 
+body, .list, .main {
+    background-color: #ffffff !important;
+    background: #ffffff !important;
+}
+
 /* 기본 모바일 설정: 위(로고) 아래(텍스트) 수직 배치 */
 .lab-intro-layout {
     display: flex;
