@@ -9,8 +9,9 @@
 
 /* 상자를 뚫고 나가 배너 이미지를 모니터 전체 너비로 강제 확장 */
 .main img[alt="profile image"] {
-    width: 100vw !important;
-    max-width: 100vw !important;
+    width: 80vw !important;
+    max-width: 80vw !important;
+    height: auto !important;
     position: relative !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
