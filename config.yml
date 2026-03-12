@@ -52,10 +52,9 @@ params:
     
     profileMode:
           enabled: true
-          title: COTTON LAB @CBNU
+          title: COgnition and aTTentiON lab @CBNU
           subtitle: >
             <img src="lab_logo.png" width = "300px" style = "margin-top: 20px;"><br>
-            COgnition and aTTentiON lab @CBNU
             This website is under construction...
           imageUrl: "lab_banner.png"
           imageWidth: 400
