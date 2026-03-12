@@ -14,16 +14,16 @@ menu:
     main:
         - name: RESEARCH
           url: /research/
-          weight: 1 
+          weight: 10 
         - name: MEMBERS
           url: /members/
-          weight: 2 
+          weight: 20 
         - name: PUBLICATIONS
           url: /publications/
-          weight: 3
+          weight: 30
         - name: JOIN US
           url: /joinus/
-          weight: 4 
+          weight: 40 
 
 params:
     description: "COgnition and aTTentiON lab @CBNU"
@@ -60,15 +60,6 @@ params:
           imageUrl: "lab_banner.png"
           imageWidth: 400
           imageHeight: 160
-          buttons:
-            - name: RESEARCH
-              url: research/
-            - name: MEMBERS
-              url: members/
-            - name: PUBLICATIONS
-              url: publications/
-            - name: JOIN US
-              url: joinus/
               
     assets:
         disableScrollBarStyle: true
