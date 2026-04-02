@@ -65,7 +65,7 @@ layout: "list"
 
 
   <div class="pub-item">
-    Wolfe, J. M., <span class="my-name">Hong, I.</span>, Mitra, A. A., Obijo, E., Khalifa, H., & Ali, Yousra (2025). 
+    Wolfe, J. M., <span class="my-name">Hong, I.</span>, Mitra, A. A., Obijo, E., Khalifa, H., & Ali, Y. (2025). 
     Mixing it up: Intermixed and blocked visual search tasks produce similar results. 
     <span class="journal-title">Attention, Perception, & Psychophysics, 87</span>, 1864-1887. https://doi.org/10.3758/s13414-025-03077-8
     <br>
