@@ -1,6 +1,6 @@
 ---
 title: "JOIN US"
-layout: "single"
+layout: "list"
 ---
 
 <style>
