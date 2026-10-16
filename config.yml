@@ -54,10 +54,10 @@ params:
           enabled: true
           title: COgnition and aTTentiON lab @CBNU
           subtitle: >
-            <img src="lab_logo.png" width = "00px" style = "margin-top: 13px;"><br>
+            <img src="lab_logo.png" width = "200px" style = "margin-top: 13px;"><br>
           imageUrl: "lab_banner.png"
-          imageWidth: 314
-          imageHeight: 65
+          imageWidth: 200
+          imageHeight: 40
               
     assets:
         disableScrollBarStyle: true
