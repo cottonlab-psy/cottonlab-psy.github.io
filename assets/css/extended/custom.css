@@ -20,10 +20,13 @@ body, .list, .main {
 
 .lab-banner {
     background: #ffffff;
-    padding: clamp(40px, 6vw, 88px) 24px;
+    padding: 16px 24px;
 }
 
 .lab-banner-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     max-width: 1120px;
     margin: 0 auto;
