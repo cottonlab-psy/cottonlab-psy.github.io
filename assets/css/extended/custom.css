@@ -34,13 +34,13 @@ body, .list, .main {
 
 .lab-banner img {
     display: block;
-    width: 25%;
+    width: 50%;
     height: auto;
     margin: 0 auto;
 }
 
 .lab-welcome {
-    background: #e7eee8;
+    background: #E9F0F5;
     color: #233e35;
     padding: clamp(48px, 7vw, 96px) 24px;
 }
