@@ -82,6 +82,13 @@ layout: "list"
 </style>
 
 <div class="join-recruitment">
+  <h2>Looking for <i>Extended</i> Lab Members</h2>
+  <p>
+    Starting in January 2027, we will hold weekly lab meetings to discuss research papers, share ideas, and stimulate our thinking. Initial members will be restricted to four students (Sorry, I have only four chairs in my room!), particularly those interested in cognition or considering joining our lab as graduate students. If you are interested, please email me a brief self-introduction by December 15, 2026. Selected students will be contacted after the deadline Based on shared research interests.
+  </p>
+</div>
+
+<div class="join-recruitment">
   <h2>Looking for Future Lab Members</h2>
   <p>
     We are considering accepting a new graduate student for the <strong>2027 Spring Semester</strong>. 
