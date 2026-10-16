@@ -84,7 +84,7 @@ layout: "list"
 <div class="join-recruitment">
   <h2>Looking for Future Lab Members</h2>
   <p>
-    We are considering accepting a new graduate student for the <strong>2026 Fall Semester</strong>. 
+    We are considering accepting a new graduate student for the <strong>2027 Spring Semester</strong>. 
     If you are interested in joining the COTTON Lab, please send an email to 
     <a href="mailto:injae.hong@chungbuk.ac.kr" style="color: #0056b3; text-decoration: underline;">injae.hong@chungbuk.ac.kr</a> 
     with a brief description of your academic background and research interests.
