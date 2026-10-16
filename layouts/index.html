@@ -1,0 +1,16 @@
+{{- define "main" }}
+<section class="lab-banner" aria-label="COTTON lab banner">
+  <div class="lab-banner-inner">
+    <img src="{{ "lab_banner.png" | relURL }}" alt="COgnition and aTTentiON lab" fetchpriority="high">
+  </div>
+</section>
+<section class="lab-welcome" aria-labelledby="lab-welcome-title">
+  <div class="lab-welcome-inner">
+    <div class="lab-welcome-copy">
+      <h1 id="lab-welcome-title">Welcome to<br>COgnition and aTTentiON lab!</h1>
+      <p>We are located at Chungbuk National University</p>
+    </div>
+    <img class="lab-welcome-logo" src="{{ "lab_logo.png" | relURL }}" alt="COTTON lab logo">
+  </div>
+</section>
+{{- end }}
