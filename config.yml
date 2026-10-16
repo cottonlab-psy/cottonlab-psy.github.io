@@ -57,8 +57,8 @@ params:
             <img src="lab_logo.png" width = "300px" style = "margin-top: 20px;"><br>
             This website is under construction...
           imageUrl: "lab_banner.png"
-          imageWidth: 400
-          imageHeight: 160
+          imageWidth: 314
+          imageHeight: 65
               
     assets:
         disableScrollBarStyle: true
