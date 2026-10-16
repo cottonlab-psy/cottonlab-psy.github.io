@@ -54,8 +54,7 @@ params:
           enabled: true
           title: COgnition and aTTentiON lab @CBNU
           subtitle: >
-            <img src="lab_logo.png" width = "300px" style = "margin-top: 20px;"><br>
-            This website is under construction...
+            <img src="lab_logo.png" width = "00px" style = "margin-top: 13px;"><br>
           imageUrl: "lab_banner.png"
           imageWidth: 314
           imageHeight: 65
