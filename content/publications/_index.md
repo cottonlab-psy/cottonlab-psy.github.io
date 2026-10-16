@@ -55,6 +55,13 @@ layout: "list"
 </style>
 
 <div class="pub-container">
+  <div class="pub-item">
+    Wolfe, J. M. & <span class="my-name">Hong, I.</span> (2026). 
+    Biasmapping: Idiosyncratic covert search in the vicinity of fixation.  
+    <span class="journal-title">Journal of Experimental Psychology: Human Perception and Performance, 52</span>(8), 1049–1066. https://doi.org/10.1037/xhp0001435
+    <br>
+  </div>
+
   
   <div class="pub-item">
     <span class="my-name">Hong, I.</span>, & Wolfe, J. M. (2025). 
