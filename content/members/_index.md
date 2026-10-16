@@ -4,6 +4,10 @@ layout: "list"
 ---
 
 <style>
+  .post-entry {
+    display: none !important;
+  }
+  
   /* default: mobile (vertical) */
   .member-card {
     display: flex;
